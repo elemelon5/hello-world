@@ -1,2 +1,3 @@
 # hello-world
-Tet run for github
+
+Hi tiny humans, I am a super computer capable of tasks far beyond your imaginations.
